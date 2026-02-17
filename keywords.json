@@ -1,0 +1,42 @@
+{
+    "General":[
+        "hydrogen-fueled",
+        "carbon-neutral",
+        "zero-emission",
+        "hydrogen train",
+        "H2 train",
+        "fuel cell train",
+        "hydrogen prototype",
+        "operational trials",
+        "test runs",
+        "trial operations",
+        "Korail",
+        "Ministry of Land Infrastructure and Transport",
+        "commercialization target",
+        "R&D project",
+        "electric system technology"
+    ],
+    "Companies": [
+        "ADD YOUR COMPANY NAMES HERE"
+  ],
+    "Capacity": [
+        "70,000 km",
+        "1.2 MW",
+        "150 km/h",
+        "fuel cell",
+        "peak power"
+  ],
+    "Timeline": [
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "operational",
+        "commercial launch",
+        "trial start",
+        "expected"
+  ]
+}
